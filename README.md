@@ -1,11 +1,5 @@
 
-[![YouTube][youtube-shield]][youtube-url]
-[![Facebook][facebook-shield]][facebook-group-url]
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
-<!-- PROJECT LOGO -->
-<br />
 <p align="center">
  
   <h3 align="center"><a  target="_blank">R A T U L</a></h3>
