@@ -39,36 +39,33 @@ Embark on a React journey with this practical project using **Reducer** and the 
 
 To get started, clone this repository and jump into your code editor. Let’s start building an app together to deepen your React knowledge.
 
-<!-- HOW TO RUN -->
-## 🚀 How to Run
+Here’s a modified version for running your project on a local machine:
 
-To run this project on your local machine, follow these steps:
+---
+
+### To run this project on your local machine, follow these steps:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/mdratul47782/CineRental-Your-One-Stop-React-App-for-Movie-Magic-and-Rentals.gi
+   git clone https://github.com/mdratul47782/CineRental-Your-One-Stop-React-App-for-Movie-Magic-and-Rentals.git
    ```
 
-2. **Navigate to Project Directory**
+2. **Navigate to the Project Directory**
    ```bash
-   cd rnext
+   cd "CineRental Your One-Stop React App for Movie Magic and Rental"
    ```
 
-3. **Checkout the Specific Branch**
-   ```bash
-   git checkout 3.21
-   ```
-
-4. **Install Node Dependencies**
+3. **Install Node Dependencies**
    ```bash
    npm install
    ```
 
-5. **Run the Development Server**
+4. **Run the Development Server**
    ```bash
    npm run dev
    ```
 
+This will start the project on a local development server, and you can access it at the URL displayed in your terminal. Let me know if you need further customization!
 
 [linkedin-shield]: https://www.linkedin.com/in/md-ratul-05a366283/
 [mail-url]: mailto:mdratul47782@gmail.com.com
