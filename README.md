@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73503432?v=4" alt="Logo" width="80" height="80" />
+ 
   <h3 align="center"><a  target="_blank">R A T U L</a></h3>
   <p align="center">
     <a href="#table-of-contents"><strong>Explore the Docs »</strong></a>
