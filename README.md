@@ -69,32 +69,6 @@ To run this project on your local machine, follow these steps:
    npm run dev
    ```
 
-That's it! The project should now be running on `http://localhost:3000`.
 
----
-
-<!-- CONTACT -->
-## 📞 Contact Us
-
-Need help? Reach out through the following platforms:
-
-[![Facebook][facebook-shield]][facebook-url]
-[![LinkedIn][https://www.linkedin.com/in/md-ratul-05a366283/]][linkedin-url]
-[![Instagram][inhttps://instagram.com/ratul__aka__muaz]][instagram-url]
-[![Email][mdratul47782@gmail.com]][mail-url]
-
----
-
-<!-- MARKDOWN LINKS & IMAGES -->
-
-[youtube-shield]: https://img.shields.io/badge/-YouTube-black.svg?style=flat-square&logo=youtube&color=555&logoColor=white
-[youtube-url]: 
-[facebook-shield]: https://img.shields.io/badge/-Facebook-black.svg?style=flat-square&logo=facebook&color=555&logoColor=white
-[facebook-url]: 
-[facebook-group-url]:
-[instagram-shield]: https://img.shields.io/badge/-Instagram-black.svg?style=flat-square&logo=instagram&color=555&logoColor=white
-[instagram-url]:
 [linkedin-shield]: https://www.linkedin.com/in/md-ratul-05a366283/
-[linkedin-url]:
-[mail-shield]: https://img.shields.io/badge/%F0%9F%93%A7%20Email-support%40learnwithsumit.com-lightgray
 [mail-url]: mailto:mdratul47782@gmail.com.com
